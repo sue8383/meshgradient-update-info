@@ -1,7 +1,7 @@
 {
   "latest": "3.0.0",
-  "downloadUrl": "https://あなたのbooth.pm/items/商品ID",
-  "consoleMessage": "MeshGradient 3.0.0 is available. Download the latest version from BOOTH.",
+  "downloadUrl": "https://suenya.booth.pm/items/7570135",
+  "consoleMessage": "MeshGradient 3.0.0 is available. 最新バージョンはBoothにてダウンロードいただけます.",
   "inspectorSummary": "新しいバージョンをBOOTHからダウンロードできます。",
   "details": "Smart検出、コピー移植、更新通知まわりを改善しました。既存設定を引き継いでアップデートできます。"
 }
